@@ -3,16 +3,16 @@
                 text {
                   font-family: Arial;
                   font-size: 40px;
-                  fill: black;
+                  fill: blue;
                 }
 
-                rect {
-                  fill: green;
+                circle {
+                  fill: red;
                   stroke: black;
                   stroke-width: 2;
                 }
               </style>
 
-              <rect x="30" y="30" width="240" height="140"/>
-              <text x="50%" y="50%" text-anchor="middle" alignment-baseline="middle">jen</text>
+              <circle cx="150" cy="100" r="90"/>
+              <text x="50%" y="50%" text-anchor="middle" alignment-baseline="middle">jkl</text>
             </svg>
